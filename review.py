@@ -34,3 +34,24 @@ def to_integer(integer):
     print(f"FAILURE: {e}")
 to_integer("1976")
 to_integer("kjhk")
+
+# I didn't think there was much here that was challenging,
+# but I haven't done any lessons on try/excepts before. I 
+# understand what they do, and I had AI write them for me.
+# That's not necessarily lazy, but a good use of resources. 
+# I didn't learn anything about writing readable code. As 
+# for making my code readable, I thought the spacing and 
+# indentation in Pep8 made sense, but it wasn't something
+# I used in this project. Next week, I would like to move
+# away from doing Python specifically, and learn some 
+# more applied skills on Codecademy. 
+
+
+
+
+
+
+
+
+
+
